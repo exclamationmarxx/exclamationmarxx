@@ -1,1 +1,1 @@
-<img src="badly made shutline meme.jpg" width="250">
+<img src="badly made shutline meme.jpg" width="400">
