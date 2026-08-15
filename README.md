@@ -1,6 +1,6 @@
 <div align="right">
 
-<a href="https://exclamationmarxx.atabook.org/">your link</a>
+<a href="https://exclamationmarxx.atabook.org/"> → ATABOOK !!</a>
 
 <img src="мемы shutline стыки (by me).jpg" width="400">
 
