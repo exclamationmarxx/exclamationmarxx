@@ -1,1 +1,1 @@
-![my image](shin.jpg)
+<img src="shin.jpg" width="200">
