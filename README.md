@@ -1,1 +1,1 @@
-![my image](images/shin.png)
+![my image](shin.jpg)
