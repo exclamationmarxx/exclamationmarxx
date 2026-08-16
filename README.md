@@ -2,6 +2,6 @@
   <img src="download (29).jpg" width="300">
   <br>
   <p align="center">
-  <font color="#0f1229">cheer up !</font>
+  <font color="#0f1229">𝓬𝓱𝓮𝓮𝓻 𝓾𝓹 !</font>
 </p>
 </p>
