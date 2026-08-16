@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="LEFT-IMAGE-URL" width="120" style="vertical-align: middle;">
+  <img src="✨💞-𝕀𝕍𝔸́ℕ𝕋𝕀𝕃𝕃-💞✨.jpg" width="120" style="vertical-align: middle;">
   &nbsp;&nbsp;&nbsp;
   <img src="download (29).jpg" width="320" style="vertical-align: middle;">
   &nbsp;&nbsp;&nbsp;
