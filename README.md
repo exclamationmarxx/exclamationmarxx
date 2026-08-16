@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IvanTill.jpg" width="250">
+  <img src="✨💞-𝕀𝕍𝔸́ℕ𝕋𝕀𝕃𝕃-💞✨.jpg" width="250">
   &nbsp;&nbsp;&nbsp;
   <img src="download (29).jpg" width="300">
   &nbsp;&nbsp;&nbsp;
