@@ -3,7 +3,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="download (29).jpg" width="200" style="vertical-align: middle;">
   &nbsp;&nbsp;&nbsp;
-  <img src="download__33_-removebg-preview.png" width="140" style="vertical-align: middle;">
+  <img src="download__33_-removebg-preview.jpg" width="140" style="vertical-align: middle;">
 </div>
 
 <p align="center">
