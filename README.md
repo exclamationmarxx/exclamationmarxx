@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td>
-<img src="Shutline meme.jpg" width="300">
+<img src="Shutline meme.jpg" width="350">
 </td>
 
 <td align="center">
