@@ -3,7 +3,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="download (29).jpg" width="320" style="vertical-align: middle;">
   &nbsp;&nbsp;&nbsp;
-  <img src="RIGHT-IMAGE-URL" width="120" style="vertical-align: middle;">
+  <img src="⚡✨-𝕀𝕍𝔸ℕ𝕋𝕀𝕃𝕃 ℂ𝕌𝕋𝔼𝕊!✨⚡.jpg" width="120" style="vertical-align: middle;">
 </div>
 
 <p align="center">
