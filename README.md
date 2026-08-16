@@ -1,5 +1,7 @@
 <p align="center">
   <img src="download (29).jpg" width="300">
   <br>
-  <i><span style="color:#13162e;">cheer up , !</span> </i>
+  <p align="center">
+  <font color="#0f1229">cheer up !</font>
+</p>
 </p>
