@@ -9,7 +9,7 @@
 </td>
 
 <td align="center" width="25%">
-<img src="° 疼 𝗔.L.𝕾.𝕋 ↺⃝👽 •" width="120">
+<img src="° 疼 𝗔.L.𝕾.𝕋 ↺⃝👽.jpg •" width="120">
 </td>
 
 
