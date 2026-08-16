@@ -1,7 +1,18 @@
+ <tr>
+    <td align="center" width="25%">
+      <img src="IvanTill.jpg" width="120">
+    </td>
+
+    <td align="center" width="50%">
+      <img src="download (29).jpg" width="320">
+    </td>
+
+    <td align="center" width="25%">
+      <img src="° 疼 𝗔.L.𝕾.𝕋 ↺⃝👽 •L" width="120">
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="download (29).jpg" width="250">
-  <br>
-  <p align="center">
-  <font color="#0f1229">𝓬𝓱𝓮𝓮𝓻 𝓾𝓹 !</font>
-</p>
+  <i>𝒸𝒽𝑒𝑒𝓇 𝓊𝓅!</i>
 </p>
