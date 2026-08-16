@@ -5,7 +5,17 @@
 </td>
 
 <td align="center">
-<a href="https://exclamationmarxx.atabook.org">→ ATABOOK !!</a>
+<td align="center">
+
+<p>
+<span style="color:#191c33">𝓉𝒾𝓁𝓁 , 𝑔𝒾𝓋𝑒𝓃 𝑜𝓇 𝓉𝒶𝓀𝑒𝓃 ? ...</span>
+</p>
+
+<br>
+
+<img src="Till Ruler of My Heart.jpg" width="300">
+
+</td>
 <br><br>
 <img src="Till Ruler of My Heart.jpg" width="300">
 </td>
