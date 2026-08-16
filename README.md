@@ -1,5 +1,5 @@
- <table>
-<tr>
+
+
 <td align="center" width="25%">
 <img src="IvanTill.jpg" width="120">
 </td>
@@ -11,8 +11,7 @@
 <td align="center" width="25%">
 <img src="° 疼 𝗔.L.𝕾.𝕋 ↺⃝👽 •" width="120">
 </td>
-</tr>
-</table>
+
 
 <p align="center">
 <i>𝒸𝒽𝑒𝑒𝓇 𝓊𝓅!</i>
