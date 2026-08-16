@@ -3,7 +3,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="download (29).jpg" width="300">
   &nbsp;&nbsp;&nbsp;
-  <img src="⚡✨-𝕀𝕍𝔸ℕ𝕋𝕀𝕃𝕃 ℂ𝕌𝕋𝔼𝕊!✨⚡.jpg" width="300">
+  <img src="⚡✨-𝕀𝕍𝔸ℕ𝕋𝕀𝕃𝕃 ℂ𝕌𝕋𝔼𝕊!✨⚡.jpg" width="350">
 </p>
 
 <p align="center">
