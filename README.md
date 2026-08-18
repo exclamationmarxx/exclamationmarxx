@@ -6,6 +6,9 @@
   <img src="download (34).jpg" width="167" style="vertical-align: middle;">
 </div>
 
-<p align="center">
-  <i>𝒸𝒽𝑒𝑒𝓇 𝓊𝓅  !</i>
+<p <p align="center">
+  <i>𝒸𝒽𝑒𝑒𝓇 𝓊𝓅  !</i><br>
+  <img src="https://komarev.com/ghpvc/?username=exclamationmarxx&style=pixel&label=%20stalkers&color=000000">
 </p>
+</p>
+<p 
