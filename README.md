@@ -8,7 +8,7 @@
 
 <p align="center">
   <i>𝓬𝓱𝓮𝓮𝓻 𝓾𝓹 !</i><br><br><br>
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&label=♡+stalkers&color=1c233b">
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&label=clicks&color=1c233b">
 </p>
 </p>
 </p>
