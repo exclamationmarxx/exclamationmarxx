@@ -6,14 +6,15 @@
   <img src="download (34).jpg" width="167" style="vertical-align: middle;">
 </div>
 
-<p align="center">
-  <i>𝓬𝓱𝓮𝓮𝓻 𝓾𝓹 !</i><br><br><br>
+<div align="center">
+  <i>𝓬𝓱𝓮𝓮𝓻 𝓾𝓹 !</i><br><br>
 
-━━━━⊱⋆⊰━━━━
+  ━━━━⊱⋆⊰━━━━
 
-<br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&label=clicks&color=1c233b">
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&label=click">
+</div>
 </p>
 </p>
 </p>
