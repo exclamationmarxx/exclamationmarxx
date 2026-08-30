@@ -16,7 +16,7 @@
 
 <br><br>
 
-<img src="clicks">
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=ffb6d9">
 
 </div>
 </div>
