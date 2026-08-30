@@ -8,6 +8,11 @@
 
 <p align="center">
   <i>𝓬𝓱𝓮𝓮𝓻 𝓾𝓹 !</i><br><br><br>
+
+━━━━⊱⋆⊰━━━━
+
+<br><br>
+  
   <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&label=clicks&color=1c233b">
 </p>
 </p>
