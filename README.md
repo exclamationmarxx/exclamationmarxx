@@ -13,7 +13,7 @@
 
   <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&label=click&color=ffb6c1">
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&label=click&color=#10102b">
 </div>
 </p>
 </p>
