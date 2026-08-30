@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <i>𝓬𝓱𝓮𝓮𝓻 𝓾𝓹 !</i><br><br>
+  <i>𝓬𝓱𝓮𝓮𝓻 𝓾𝓹 !</i><br><br><br>
 
   ━━━━⊱⋆⊰━━━━
 
