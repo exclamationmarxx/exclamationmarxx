@@ -4,7 +4,7 @@
   <img src="download (29).jpg" width="200" style="vertical-align: middle;">
   &nbsp;&nbsp;&nbsp;
   <img src="download (34).jpg" width="167" style="vertical-align: middle;">
-</div>
+</div><br>
 
 <div align="center">
 
