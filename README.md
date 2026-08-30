@@ -22,7 +22,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=ffb6d9&initial=504,723">
+<img src="https://komarev.com/ghpvc/?username=exclamationmarxx&color=ffb6d9&initial=504,723">
 
 </div>
 
