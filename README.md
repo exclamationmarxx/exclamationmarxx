@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&duration=2500&pause=999999&color=10102b&center=true&vCenter=true&width=300&lines=%E1%B4%84%CA%9C%E1%B4%87%E1%B4%87%CA%80+%E1%B4%9C%E1%B4%98+!" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&duration=2500&pause=3000&color=10102b&center=true&vCenter=true&repeat=true&width=300&lines=%E1%B4%84%CA%9C%E1%B4%87%E1%B4%87%CA%80+%E1%B4%9C%E1%B4%98+!" />
 
 <br><br>
 
