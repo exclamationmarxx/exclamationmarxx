@@ -16,7 +16,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=ffb6d9">
+<img src="https://komarev.com/ghpvc/?username=exclamationmarxx&color=10102b">
 
 </div>
 </div>
