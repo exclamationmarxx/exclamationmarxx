@@ -20,10 +20,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&duration=2500&pause=999999&color=FFFFFF&center=true&vCenter=true&width=300&lines=%E1%B4%84%CA%9C%E1%B4%87%E1%B4%87%E1%B4%80+%E1%B4%9C%E1%B4%98+!" />
 
-<br>
-
-━━━━⊱⋆⊰━━━━
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=ffb6d9&initial=504,723">
