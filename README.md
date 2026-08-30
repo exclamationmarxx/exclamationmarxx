@@ -7,13 +7,13 @@
 </div>
 
 <div align="center">
-  <i>𝓬𝓱𝓮𝓮𝓻 𝓾𝓹 !</i><br><br><br>
+  <br><i>𝓬𝓱𝓮𝓮𝓻 𝓾𝓹 !</i><br><br><br>
 
 𓏵  ━━━━━━━━━━⊱⋆⊰━━━━━━━━━━  𓏵
 
   <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&label=click&color=10102b">
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&label=clicks&color=10102b">
 </div>
 </p>
 </p>
