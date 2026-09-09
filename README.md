@@ -1,1 +1,1 @@
-![Image](peaceofgod.png)
+![Image](peaceofgod.jpg)
