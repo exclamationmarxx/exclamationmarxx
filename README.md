@@ -1,3 +1,3 @@
 <p align="center">
-<img src="./peace%20of%20god(1).jpg" width="2600">
+<img src="./peace of god (1).jpgjpg" width="2600">
 
