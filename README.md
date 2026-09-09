@@ -1,4 +1,4 @@
-align="center">
+<p align="center">
 <tr>
 <img src="./peace of god (1).jpg" width="260">
   <br><br><br>
