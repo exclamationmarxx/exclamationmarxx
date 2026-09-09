@@ -1,1 +1,1 @@
-![Image](peace of god.jpg)
+![Image](./peace%20of%20god.jpg)
